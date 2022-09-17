@@ -8,7 +8,7 @@ I have been coding for more than 5 years now, attended university and dropped ou
 
 *   🌍  I'm based in Cape Town
 *   ✉️  You can contact me at [keorapetsefani2000@gmail.com](mailto:keorapetsefani2000@gmail.com)
-*   🧠  I'm learning Docker and Kubernetes
+*   🧠  I'm learning Docker and Kubernetes, typescript, and graphql
 *   🤝  I'm open to collaborating on Node js libraries, mobile apps, python modules, or any tensorflow models
 *   ⚡  I am a wizard nerd😁
 
